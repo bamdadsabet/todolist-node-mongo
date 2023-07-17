@@ -1,0 +1,13 @@
+{
+  "name": "note",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "note taking app for leaning node.js for back-end",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node app.js"
+  },
+  "author": "bamdad",
+  "license": "ISC"
+}
